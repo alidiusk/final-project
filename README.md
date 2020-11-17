@@ -19,6 +19,6 @@ We were tasked with identifying the "best neighborhood" in the City of Pittsburg
 `Covid-19.ipynb` is the notebook analyzing Covid-19 data in various Pittsburgh neighborhoods.
 `Public Art.ipynb` is the notebook analyzing Public Art in various Pittsburgh neighborhoods.
 
-`Final Report.ipynb` is the notebook combining these metrics to identify the "best neighborhood" in Pittsburgh. It accomplishes this by assigning a weight to each of the prior metrics, and then calculating a score for each neighborhood. The best neighborhood is the one with the greatest score.
+`Final Report.ipynb` is the notebook combining these metrics to identify the "best neighborhood" in Pittsburgh.
 
 The neighborhood we identified as the best is Allegheny Center. Allegheny Center placed 2nd in our public art metric, and 58th in our Covid-19 metric, but was only 3% worse than the best neighborhood in the Covid-19 data. We identified Allegheny County as the best by analyzing the top 5 public art neighborhoods and choosing the one with the best Covid-19 score. Allegheny Center was a close 2nd in the Public Art data, and had a significantly better Covid-19 score than the other four neighborhoods.
